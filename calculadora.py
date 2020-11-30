@@ -5,7 +5,8 @@ from resta import resta
 """se crea el menu"""
 bandera = True 
 while bandera: 
-    print("\npor favor escoga una de las siguientes opciones: ")
+    print("\nBienvenid@ a la calculadora")
+    print("por favor escoga una de las siguientes opciones: ")
     print("1 - para sumar")
     print("2 - para restar")
     print("3 - para multiplicarr")
